@@ -1,0 +1,15 @@
+Atco Gas stock price
+Algonquin Power stock price
+Bank of Nova Scotia stock price
+Canadian Natural Res stock price
+Emera Incorporated stock price
+Enbridge stock price
+Fortis stock price
+Great West Lifeco stock price
+Keyera Corp stock price
+Manulife Financial stock price
+Pembina Pipeline Corp stock price
+Power Corp of Canada stock price
+Royal Bank of Canada stock price
+Telus Corp stock price
+Toronto Dominion Bank stock price
