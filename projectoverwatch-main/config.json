@@ -1,10 +1,10 @@
 {
     "openrouter": {
-        "api_key": "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",
+        "api_key": "Insert openRouterkey here",
         "model": "deepseek/deepseek-chat-v3-0324"
     },
     "dataforseo": {
-        "api_login": "sean@mediamasters.ca",
-        "api_password": "43dd9ffafc698610"
+        "api_login": "DFS Email",
+        "api_password": "DFS API KEY"
     }
 } 
